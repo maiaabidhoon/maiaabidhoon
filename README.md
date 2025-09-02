@@ -18,41 +18,58 @@ I love turning ideas into working solutions and sharing my learning journey.
 
 ## 🛠️ Tech Stack
 ### Frontend
-- React • React Native • Tailwind CSS • HTML • CSS • JavaScript  
+  - HTML
+  - CSS
+  - React
+  - React Native
+  - Tailwind CSS
+  - Bootstarp CSS
+  - JavaScript
 
 ### Backend
-- Node.js • Express.js • MySQL • MongoDB  
+  - Node.js
+  - Express.js
+  - MySQL
+  - MongoDB  
 
 ### Mobile Development
-- React Native (Expo & Bare) • Kotlin  
+  - React Native (Expo & Bare)
+  - Kotlin
+  - Flutter
 
 ### AI / Data
-- Python • TensorFlow • Scikit-learn • Socket.io  
+  - Python
+  - TensorFlow
+  - Scikit-learn
+  - Socket.io
 
 ### Tools
-- Git & GitHub • VS Code • Postman • Figma  
+  - Git & GitHub
+  - VS Code
+  - Postman
+  - Figma  
 
 ---
 
 ## 📌 Featured Projects
-- 🔗 [MindCoder](#) – A platform for learning & coding challenges  
-- 🔗 [Vartalap](#) – Real-time chat app with React Native + Node.js  
-- 🔗 [RuralSkill AI](#) – AI-powered career guidance for rural students  
-- 🔗 [Admin Panel](#) – React + Tailwind dashboard for institutes  
+  - 🔗 [MindCoder](#) – A platform for learning & coding challenges  
+  - 🔗 [Vartalap](#) – Real-time chat app with React Native + Node.js  
+  - 🔗 [RuralSkill AI](#) – AI-powered career guidance for rural students  
+  - 🔗 [Admin Panel](#) – React + Tailwind dashboard for institutes  
 
 ---
 
 ## 📊 GitHub Stats
-![Aabid's GitHub stats](https://github-readme-stats.vercel.app/api?username=aabidhusain&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aabidhusain&layout=compact&theme=tokyonight)  
+  ![Aabid's GitHub stats](https://github-readme-stats.vercel.app/api?username=aabidhusain&show_icons=true&theme=tokyonight)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aabidhusain&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🤝 Connect with Me
-- 🌐 Portfolio: [Your Website](#)  
-- 💼 LinkedIn: [Your LinkedIn](#)  
-- 🐦 Twitter: [Your Twitter](#)  
-- 📧 Email: yourname@email.com  
+  - 🌐 Portfolio: [Your Website](#)  
+  - 💼 LinkedIn: [Your LinkedIn](#)  
+  - 🐦 Twitter: [Your Twitter](#)  
+  - 📧 Email: yourname@email.com  
 
 ---
 
