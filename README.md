@@ -11,8 +11,9 @@ I love turning ideas into working solutions and sharing my learning journey.
 - 🌱 Currently exploring **AI systems, React Native, and Full-Stack Development**  
 - 💻 Building projects with **React, Node.js, MySQL, and Kotlin**  
 - 🎯 Founder of **BaniDeveloper**  
+- 🎯 Founder of **MAT Foundation**  
 - 💡 Interested in **startups, education technology, and AI assistants**  
-- 🎮 Fun fact: I’m a **BGMI 4-finger non-gyro player**  
+- 🎮 Fun fact: I’m a **BGMI 4-finger non-gyro player & Open World Gamer**
 
 ---
 
@@ -66,10 +67,11 @@ I love turning ideas into working solutions and sharing my learning journey.
 ---
 
 ## 🤝 Connect with Me
-  - 🌐 Portfolio: [Your Website](#)  
-  - 💼 LinkedIn: [Your LinkedIn](#)  
-  - 🐦 Twitter: [Your Twitter](#)  
-  - 📧 Email: yourname@email.com  
+  - 🌐 Portfolio: [Click Me](https://banideveloper.com/aabid-husain)  
+  - 💼 LinkedIn: [Click Me](https://www.linkedin.com/in/maiaabidhoon/)  
+  - 🐦 Twitter: [Click Me](https://x.com/MaiAabidHoon)  
+  - 📧 Email: maiaabidhoon@gmail.com
+  - Instagram: [maiaabidhoon](https://www.instagram.com/maiaabidhoon/)
 
 ---
 
