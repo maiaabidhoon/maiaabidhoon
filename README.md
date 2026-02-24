@@ -1,12 +1,13 @@
 # Hi there 👋, I'm Aabid Husain  
 
-🚀 **Developer | Tech Enthusiast | Problem Solver**  
+🚀 **Founder | Developer | Tech Enthusiast | Problem Solver**  
 
 Welcome to my GitHub portfolio! I’m passionate about building scalable apps, intuitive websites, and experimenting with AI/ML.  
 I love turning ideas into working solutions and sharing my learning journey.  
 
----
 
+
+---
 # 💫 About Me:
 🌱 Currently exploring AI systems, React Native, and Full-Stack Development<br>💻 Building projects with React, Node.js, MySQL, and Kotlin<br>🎯 Founder of BaniDeveloper<br>🎯 Founder of MAT Foundation<br>💡 Interested in startups, education technology, and AI assistants<br>🎮 Fun fact: I’m a BGMI 4-finger non-gyro player & Open World Gamer
 
@@ -27,7 +28,5 @@ I love turning ideas into working solutions and sharing my learning journey.
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maiaabidhoon) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ⭐️ *Thanks for visiting my portfolio! Feel free to check out my repositories and connect with me.*  
