@@ -9,7 +9,7 @@ I love turning ideas into working solutions and sharing my learning journey.
 
 ---
 # 💫 About Me:
-🌱 Currently exploring AI systems, React Native, and Full-Stack Development<br>💻 Building projects with React, Node.js, MySQL, and Kotlin<br>🎯 Founder of BaniDeveloper<br>🎯 Founder of MAT Foundation<br>💡 Interested in startups, education technology, and AI assistants<br>🎮 Fun fact: I’m a BGMI 4-finger non-gyro player & Open World Gamer
+🌱 Currently exploring AI systems, React Native, and Full-Stack Development<br>💻 Building projects with React, Node.js, MySQL, and Kotlin<br>🎯 Founder of MAT Nite<br>🎯 Build HAMD - Human Adoptive Medical Diagnosis system<br>💡 Interested in startups, education technology, and AI assistants<br>🎮 Fun fact: I’m a BGMI 4-finger non-gyro player & Open World Gamer
 
 
 ## 🌐 Socials:
